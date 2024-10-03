@@ -1,4 +1,4 @@
-# Cloud-Computing-Course-Efficient-AI-computing-schemes
+# Cloud-Computing-and-Efficient-AI-computing-schemes-course
 
 Project 1 : Using Python, Execute processing systems benchmarking, and then defining a DNN with two or three
 fully connected layers and varying the number of neurons in each layer in order to know how accuracy and
